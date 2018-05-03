@@ -1,4 +1,5 @@
 <?php
+//Qué es lo que es
 	if (!empty($_SERVER['HTTPS']) && ('on' == $_SERVER['HTTPS'])) {
 		$uri = 'https://';
 	} else {
